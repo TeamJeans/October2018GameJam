@@ -551,8 +551,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 56.899963, y: 216.60005}
-  m_SizeDelta: {x: 813.5, y: 152.5}
+  m_AnchoredPosition: {x: -298, y: 252.75}
+  m_SizeDelta: {x: 813.5, y: 190.81}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &209180462
 MonoBehaviour:
@@ -574,21 +574,25 @@ MonoBehaviour:
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 52
+    m_Font: {fileID: 12800000, guid: 1fae0ecc01774d846b60200d6aa991d3, type: 3}
+    m_FontSize: 42
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 10
+    m_MinSize: 4
     m_MaxSize: 72
-    m_Alignment: 0
+    m_Alignment: 1
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'c
+  m_Text: 'Player One:
 
-'
+    Well let''s see if I can change minds by changing some gears!
+
+    Race me at 7:30pm.
+
+    Be there or be SQUARE!'
 --- !u!222 &209180463
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -708,21 +712,21 @@ MonoBehaviour:
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 52
+    m_Font: {fileID: 12800000, guid: 1fae0ecc01774d846b60200d6aa991d3, type: 3}
+    m_FontSize: 45
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 10
+    m_MinSize: 0
     m_MaxSize: 72
-    m_Alignment: 0
+    m_Alignment: 1
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Start
+  m_Text: 'Opening Act:
 
-'
+    A heated encounter takes place at the RaceWay Park.'
 --- !u!222 &223558842
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -745,7 +749,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 56.899963, y: 216.60005}
+  m_AnchoredPosition: {x: -9, y: 254.91}
   m_SizeDelta: {x: 813.5, y: 152.5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &334417669
@@ -879,8 +883,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 56.899963, y: 216.60005}
-  m_SizeDelta: {x: 813.5, y: 152.5}
+  m_AnchoredPosition: {x: 225, y: 252.74998}
+  m_SizeDelta: {x: 813.5, y: 177.9}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &416652520
 MonoBehaviour:
@@ -902,21 +906,23 @@ MonoBehaviour:
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 52
+    m_Font: {fileID: 12800000, guid: 1fae0ecc01774d846b60200d6aa991d3, type: 3}
+    m_FontSize: 42
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 10
+    m_MinSize: 4
     m_MaxSize: 72
-    m_Alignment: 0
+    m_Alignment: 1
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'c
+  m_Text: 'Player Two:
 
-'
+    Well everone knows that my car is the speediest of them all!
+
+    I''m park champion!'
 --- !u!222 &416652521
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1031,8 +1037,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 56.9, y: 216.6}
-  m_SizeDelta: {x: 813.5, y: 152.5}
+  m_AnchoredPosition: {x: 225, y: 245.29999}
+  m_SizeDelta: {x: 813.5, y: 209.9}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &475092583
 MonoBehaviour:
@@ -1054,21 +1060,21 @@ MonoBehaviour:
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 52
+    m_Font: {fileID: 12800000, guid: 1fae0ecc01774d846b60200d6aa991d3, type: 3}
+    m_FontSize: 42
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 10
+    m_MinSize: 4
     m_MaxSize: 72
-    m_Alignment: 0
+    m_Alignment: 1
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'a
+  m_Text: 'Player Two:
 
-'
+    You can''t possibly belive that YOUR car is faster than mine!'
 --- !u!222 &475092584
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1138,8 +1144,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 56.899963, y: 216.60005}
-  m_SizeDelta: {x: 813.5, y: 152.5}
+  m_AnchoredPosition: {x: -239, y: 244.25}
+  m_SizeDelta: {x: 802, y: 207.8}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &807420747
 MonoBehaviour:
@@ -1161,19 +1167,23 @@ MonoBehaviour:
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 52
+    m_Font: {fileID: 12800000, guid: 1fae0ecc01774d846b60200d6aa991d3, type: 3}
+    m_FontSize: 46
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 10
+    m_MinSize: 3
     m_MaxSize: 72
-    m_Alignment: 0
+    m_Alignment: 1
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: b
+  m_Text: 'Player One:
+
+    I just upgraded my car with speed lines.
+
+    I think I can!'
 --- !u!222 &807420748
 CanvasRenderer:
   m_ObjectHideFlags: 0
