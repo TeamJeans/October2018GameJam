@@ -41,3 +41,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 479613575
+    locked: 0
+  - name: Track
+    uniqueID: 1706614195
+    locked: 0
+  - name: Cars
+    uniqueID: 2705819599
+    locked: 0
+  - name: GearBoxBackground
+    uniqueID: 1775492203
+    locked: 0
+  - name: GearBoxMap
+    uniqueID: 3365768803
+    locked: 0
