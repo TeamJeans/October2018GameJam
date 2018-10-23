@@ -31,7 +31,7 @@ public class LappingController : MonoBehaviour {
 		checkPoint1.enabled = false;
 		checkPoint2.enabled = false;
 		checkPoint3.enabled = false;
-		playerLapsText.text = "LAP:" + player.LapNumber;
+		playerLapsText.text = "LAP:" + player.LapNumber + "/" + player.noOfLapsToDo;
 	}
 
 	// Update is called once per frame
@@ -63,7 +63,7 @@ public class LappingController : MonoBehaviour {
 			finishLine.enabled = false;
 			startingLine.enabled = true;
 			player.LapNumber++;
-			playerLapsText.text = "LAP:" + player.LapNumber;
+			playerLapsText.text = "LAP:" + player.LapNumber + "/" + player.noOfLapsToDo;
 		}
 
 	}

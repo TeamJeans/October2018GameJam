@@ -83,8 +83,8 @@ public class GearNumberGeneration : MonoBehaviour {
 
 	void Update()
 	{
-		gearTextPlayer1.text = "GEAR:" + player.NoOfGearsWon;
-		gearTextPlayer2.text = "GEAR:" + player2.NoOfGearsWon;
+		gearTextPlayer1.text = "GEAR:" + player.NoOfGearsWon + "/" + player.noOfGearsToDo;
+		gearTextPlayer2.text = "GEAR:" + player2.NoOfGearsWon + "/" + player2.noOfGearsToDo;
 
 		for (int i = 0; i < gearTextArray.Length; i++)
 		{

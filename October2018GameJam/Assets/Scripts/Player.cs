@@ -14,6 +14,11 @@ public class Player : MonoBehaviour {
 	[SerializeField]
 	Sprite[] carSprites;
 
+	[SerializeField]
+	public int noOfLapsToDo;
+	[SerializeField]
+	public int noOfGearsToDo;
+
 	void Start()
 	{
 		int randomSpriteIndex = Random.Range(0, carSprites.Length);
